@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">pc1KatherineA</string>
+    <string name="valor_titulo">Calculo de Notas</string>
+    <string name="valor_txtExaParcial">Examen Parcial</string>
+    <string name="valor_txtExaFinal">Examen Final</string>
+    <string name="valor_txtProm">Promedio de evaluación permanente(PEP)</string>
+    <string name="valor_btn">Calcular</string>
+    <string name="valor_txtTituloResultado">Resultado</string>
+    <string name="valor_enunciado1">La nota final es: </string>
+    <string name="valor_enunciado2">Resultado:</string>
+</resources>
